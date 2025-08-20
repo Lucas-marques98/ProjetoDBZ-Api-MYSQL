@@ -21,7 +21,7 @@ Este projeto é uma API desenvolvida em ASP.NET Core que gerencia personagens e 
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/ProjetoDBZ.git
+git clone https://github.com/Lucas-marques98/ProjetoDBZ.git
 ```
 
 2. Configure a string de conexão
