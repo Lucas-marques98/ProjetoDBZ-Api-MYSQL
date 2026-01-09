@@ -124,7 +124,7 @@ O projeto inclui dados iniciais (seed) com os personagens Goku e Vegeta, incluin
 Se encontrar algum problema, por favor, abra uma issue no repositório do projeto.
 
 ## 📫 Contato
-Seu Nome - [seu-email@exemplo.com]
+Seu Nome - [lucas.rodrigues.caslu@gmail.com]
 
 Link do Projeto: [https://github.com/Lucas-marques98/ProjetoDBZ](https://github.com/Lucas-marques98/ProjetoDBZ)
 
